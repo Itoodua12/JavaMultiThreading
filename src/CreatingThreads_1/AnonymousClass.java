@@ -1,4 +1,4 @@
-package CreatingThreads;
+package CreatingThreads_1;
 
 public class AnonymousClass {
 
