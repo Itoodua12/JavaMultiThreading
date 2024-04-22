@@ -1,8 +1,5 @@
-package RaceCondition.CheckThenAct;
+package race_condition.CheckThenAct;
 
-import RaceCondition.ReadModifyWrite.Counter;
-
-import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 

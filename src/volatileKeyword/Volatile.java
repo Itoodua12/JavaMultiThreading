@@ -1,4 +1,4 @@
-package VolatileKeyword;
+package volatileKeyword;
 
 
 public class Volatile {

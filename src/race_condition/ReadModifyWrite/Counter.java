@@ -1,4 +1,4 @@
-package RaceCondition.ReadModifyWrite;
+package race_condition.ReadModifyWrite;
 
 public class Counter {
 

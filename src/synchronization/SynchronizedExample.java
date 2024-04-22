@@ -1,4 +1,4 @@
-package Synchronization_2;
+package synchronization;
 
 /**
  * When two or more threads need access to a shared resource,

@@ -1,4 +1,4 @@
-package Synchronization_2;
+package synchronization;
 
 
 class Power {

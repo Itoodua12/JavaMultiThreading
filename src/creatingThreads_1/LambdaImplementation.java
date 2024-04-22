@@ -1,4 +1,4 @@
-package CreatingThreads_1;
+package creatingThreads_1;
 
 //todo : How to use Java Lambda expression to create thread via Runnable
 public class LambdaImplementation {

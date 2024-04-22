@@ -1,4 +1,4 @@
-package CreatingThreads_1;
+package creatingThreads_1;
 
 class Task extends Thread {
 
